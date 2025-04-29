@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/archive/test1/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/archive/test2/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/archive/test3/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/archive/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/features/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/language/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/posts/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/web/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/docs/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/author/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/categories/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/author/jinho-joo/</loc>
+  </url><url>
+    <loc>https://jeremy-joo.github.io/TechBlog/tags/</loc>
+  </url>
+</urlset>

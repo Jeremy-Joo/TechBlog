@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on </title>
+    <link>https://jeremy-joo.github.io/TechBlog/author/</link>
+    <description>Recent content in Author on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://jeremy-joo.github.io/TechBlog/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JINHO JOO</title>
+      <link>https://jeremy-joo.github.io/TechBlog/author/jinho-joo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jeremy-joo.github.io/TechBlog/author/jinho-joo/</guid>
+      <description>&lt;p&gt;안녕하세요! 저는 C#, SQL, Hugo를 즐겨 사용하는 개발자 &lt;strong&gt;JINHO JOO&lt;/strong&gt;입니다.&lt;/p&gt;&#xA;&lt;p&gt;이 페이지는 제가 작성한 모든 문서를 한눈에 볼 수 있도록 구성되어 있습니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
